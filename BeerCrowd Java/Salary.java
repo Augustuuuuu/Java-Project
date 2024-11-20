@@ -21,4 +21,4 @@ public class Salary {
     float salary = hoursWorked * amountPerHour;
     System.out.printf("NUMBER = %d\nSALARY = U$ %.2f\n", employeeNumber, salary);
     }
-}
+}   
