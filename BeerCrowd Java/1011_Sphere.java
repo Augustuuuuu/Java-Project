@@ -12,7 +12,7 @@ The output must be a message "VOLUME" like the following example with a space be
 
 import java.util.Scanner;
 
-public class Sphere {
+public class Sphere_1011 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         double pi = 3.14159;

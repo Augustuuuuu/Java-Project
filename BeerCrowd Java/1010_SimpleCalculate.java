@@ -8,7 +8,7 @@ The output file must be a message like the following example where "Valor a paga
 
 import java.util.Scanner;
 
-public class SimpleCalculate {
+public class SimpleCalculate_1010 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int productCode1 = read.nextInt();

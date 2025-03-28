@@ -10,7 +10,7 @@ Print DIFERENCA (DIFFERENCE in Portuguese) with all the capital letters, accordi
 
 import java.util.Scanner;
 
-public class Difference {
+public class Difference_1007 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int a = read.nextInt();

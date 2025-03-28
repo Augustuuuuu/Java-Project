@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AverageOne {
+public class AverageOne_1005 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         float a = read.nextFloat();
