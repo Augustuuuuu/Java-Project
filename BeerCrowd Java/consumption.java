@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Consumption_1014 {
+public class consumption {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int totalDistance = read.nextInt();

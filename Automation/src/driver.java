@@ -10,7 +10,7 @@ public class driver {
     public static void main(String[] args) {
         // Inicializa o WebDriver para o Chrome
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("--headless"); // Opcional: executa o navegador em modo headless (sem interface gráfica)
+        //options.addArguments("--headless"); // Opcional: executa o navegador em modo headless (sem interface gráfica)
         WebDriver driver = new ChromeDriver(options);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get("https://youtube.com/");

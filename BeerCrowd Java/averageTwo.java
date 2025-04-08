@@ -10,7 +10,7 @@ Print the message "MEDIA"(average in Portuguese) and the student's average accor
 
 import java.util.Scanner;
 
-public class AverageTwo_1006 {
+public class averageTwo {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         double a = read.nextDouble();

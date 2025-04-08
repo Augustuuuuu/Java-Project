@@ -10,7 +10,7 @@ Print the message "PROD" and PROD according to the following example, with a bla
 
 import java.util.Scanner;
 
-public class SimpleProduct_1004 {
+public class simpleProduct {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int firstNumber = read.nextInt();

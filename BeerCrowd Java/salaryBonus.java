@@ -14,7 +14,7 @@ Print the seller's total salary, according to the given example.
 
 import java.util.Scanner;
 
-public class SalaryBonus_1009 {
+public class salaryBonus {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         String employeeName = read.nextLine();

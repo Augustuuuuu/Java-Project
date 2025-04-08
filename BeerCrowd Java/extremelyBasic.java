@@ -9,7 +9,7 @@ Output
 Print the letter X (uppercase) with a blank space before and after the equal signal followed by the value of X, according to the following example.
 
 Obs.: don't forget the endline after all. */
-public class ExtremelyBasic_1002{
+public class extremelyBasic{
     public static void main(String[] args) {
         int a,b,sum;
         Scanner ler = new Scanner(System.in);

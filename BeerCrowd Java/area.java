@@ -14,7 +14,7 @@ The output file must contain 5 lines of data. Each line corresponds to one of th
 */
 import java.util.Scanner;
 
-public class Area_1012 {
+public class area {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         double a = read.nextDouble();

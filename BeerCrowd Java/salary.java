@@ -12,7 +12,7 @@ Print the number and the employee's salary, according to the given example, with
 
 import java.util.Scanner;
 
-public class Salary_1008 {
+public class salary {
     public static void main(String[] args) {
     Scanner read = new Scanner(System.in);
     int employeeNumber = read.nextInt();
